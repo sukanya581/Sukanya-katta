@@ -33,19 +33,22 @@
 Designed and developed a machine learning web application to help HR teams predict employee promotions. Used models like Gradient Boosting, Random Forest, SVM, and Logistic Regression for accurate predictions. Handled data preprocessing and class imbalance using SMOTE. Integrated the ML models into a Django web app with a MySQL database to enable real-time, data-driven HR decisions.
 
 
-- 📊 **Power BI Dashboards**  
+📊 **Power BI Dashboards**  
          Designed interactive Power BI dashboards to analyze and visualize key business metrics.
+         
   🧾 **Sales Performance Dashboard**
+  
       - A beginner-friendly dashboard that shows total sales, profit, and top products using Power BI.
       - I used Excel as the data source, Power Query for data cleaning, and DAX to calculate profit margins.
       - Includes monthly trends, regional sales, and product-wise breakdowns with interactive slicers.
 
 🔧 **Tools used:** Power BI | Excel | Power Query | DAX
+
 📈**Skills:** Data Cleaning · Visual Design · KPI Cards · Trend Analysis
 
 📊 **HR Analytics Dashboard**
-Built an interactive HR analytics dashboard in Tableau as part of a Deloitte-style task.
-The dashboard visualizes key workforce metrics to help HR teams understand attrition trends and employee distribution.
+    Built an interactive HR analytics dashboard in Tableau as part of a Deloitte-style task.
+    The dashboard visualizes key workforce metrics to help HR teams understand attrition trends and employee distribution.
 
 **Key Features:**
 - Employee Headcount by Department & Gender
@@ -55,6 +58,7 @@ The dashboard visualizes key workforce metrics to help HR teams understand attri
 - Interactive KPIs for Active Employees, Exits, and Avg Salary
 
 🔧 **Tools used:** Tableau | Excel
+
 📈 **Skills:** Data Visualization · HR Analytics · Filters · Dashboard Design
 
 ---
