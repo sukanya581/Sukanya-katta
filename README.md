@@ -37,17 +37,17 @@ Designed and developed a machine learning web application to help HR teams predi
 ### 🔹 **Power BI Dashboards**  
          Designed interactive Power BI dashboards to analyze and visualize key business metrics.
          
-  🧾 **Sales Performance Dashboard**
+  🧾 **Sales Performance Dashboard :**
       - A beginner-friendly dashboard that shows total sales, profit, and top products using Power BI.
-      - I used Excel as the data source, Power Query for data cleaning, and DAX to calculate profit margins.
-      - Includes monthly trends, regional sales, and product-wise breakdowns with interactive slicers.
+      I used Excel as the data source, Power Query for data cleaning, and DAX to calculate profit margins.
+      Includes monthly trends, regional sales, and product-wise breakdowns with interactive slicers.
 
 🔧 **Tools used:** Power BI | Excel | Power Query | DAX
 
 📈 **Skills:** Data Cleaning · Visual Design · KPI Cards · Trend Analysis
 
 
-📊 **HR Analytics Dashboard**
+📊 **HR Analytics Dashboard :**
     Built an interactive HR analytics dashboard in Tableau as part of a Deloitte-style task.
     The dashboard visualizes key workforce metrics to help HR teams understand attrition trends and employee distribution.
 
